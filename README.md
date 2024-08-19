@@ -1,0 +1,3 @@
+O orçamento "sou pobre" tem uma natureza bem auto-explicativa. Ele tem o valor de 100 R$ de orçamento, mesmo que baixo em comparação com os créditos dado automaticamente, é o suficiente para esse período de estudos, e evite de algum erro meu causar a perda de todos meu créditos. Tem incluso todos meus projetos criados, e tem mais o propósito de "catch all", a medida que novos projetos forem criados, serão criadas regras de orçamentos mais especializadas
+
+As prints da configuração de orçamento são "faturamento GCP (X).png"
