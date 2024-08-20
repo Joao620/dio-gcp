@@ -1,0 +1,1 @@
+Foi criado um conjunto de dados chamado "toda_fatura" para o exportação dos dados de faturamento no big query. Ela tá com uma opção multregional com a região US
